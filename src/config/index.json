@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Nosotros",
-        "description": "En RIV3R'STR3T, ofrecemos una experiencia urbana única. Nos especializamos en la venta de camisetas, gorras, calzado y chanclas inspirados en la moda callejera, combinando estilos contemporáneos con un toque de rebeldía.",
+        "description": "En RIV3R'STR3T, ofrecemos una experiencia urbana única. Nos especializamos en ofrecer servicios de barbería, cortes clásicos y tendencia con un toque freestyle. En la venta de camisetas, gorras, calzado y chanclas inspirados en la moda callejera, combinando estilos contemporáneos con un toque de rebeldía.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nuestro Objetivo",
-        "description": "Nuestro objetivo es brindar a nuestros clientes piezas que reflejen su individualidad y pasión por lo auténtico.",
+        "description": "Nuestro objetivo es brindar a nuestros clientes cortes y piezas que reflejen su individualidad y pasión por lo auténtico.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 314 2092780",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "andresrivera44@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Tiktok",
+        "description": "@drs.playa_rio",
+        "icon": "/assets/images/tiktok.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Playa&Rio",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
