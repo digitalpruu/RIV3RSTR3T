@@ -18,8 +18,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "RIV3R'STR3T",
-    "subtitle": "",
+    "title": "RST",
+    "subtitle": "Barbería & Accesorios",
     "description": "",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Nosotros",
-        "description": "En RIV3R'STR3T, ofrecemos una experiencia urbana única. Nos especializamos en ofrecer servicios de barbería, cortes clásicos y tendencia con un toque freestyle. En la venta de camisetas, gorras, calzado y chanclas inspirados en la moda callejera, combinando estilos contemporáneos con un toque de rebeldía.",
+        "description": "En RST Barbería & Accesorios, ofrecemos una experiencia urbana única. Nos especializamos en ofrecer servicios de barbería, cortes clásicos y tendencia con un toque freestyle. En la venta de camisetas, gorras, calzado y chanclas inspirados en la moda callejera, combinando estilos contemporáneos con un toque de rebeldía.",
         "img": "/assets/images/2.png"
       },
       {
@@ -70,7 +70,8 @@
       {
         "name": "Facebook",
         "description": "Playa&Rio",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/PlayaRio/61556761206577/"
       }
     ]
   },
